@@ -21,7 +21,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/adkoprek/Mandelbrot">
-    <img src="assets/logo.png" alt="Logo">
+    <img src="assets/logo.jpeg" width=500 alt="Logo">
   </a>
 
   <h3 align="center">Mandelbrot Set - A never ending fractal</h3>

@@ -1,0 +1,7 @@
+.cache/
+bin/
+cmake/
+images/
+compile_commands.json
+scripts/*.mp4
+scripts/*.txt

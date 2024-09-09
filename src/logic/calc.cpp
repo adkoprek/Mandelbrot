@@ -125,7 +125,7 @@ void Calc::set_color(int x, int y, int iterations, int max_iter, ldoub mag) {
     *(m_colors + 3 * y * m_width + 3 * x + 1) = color[1];
     *(m_colors + 3 * y * m_width + 3 * x + 2) = color[2];
 #endif // !GAUSS_COLOR
-#ifdef GAUSS
+#ifdef GAUSS_COLOR
     // My own coloring way with Gauss functions
 
     double factor_r = 0;
